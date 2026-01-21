@@ -1,17 +1,21 @@
 # Basheer Al-Shehabi - Data Analyst Portfolio
 ## About
-Hi, I'm Basheer! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Hi, I’m Basheer Shehabi — a Reporting & Data Analyst with a Software Engineering background and a genuine curiosity for patterns, numbers, and the stories hiding behind them. I enjoy asking “Why?”, challenging assumptions, and turning messy data into insights people actually enjoy using.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+In my current role, I work hands-on with data every day — building reports, analyzing performance, and helping teams make sense of what’s really going on. I specialize in Power BI, creating dynamic, decision-ready dashboards, supported by SQL and Excel to ensure the data behind every visual is accurate, consistent, and trustworthy. 
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+As someone who started in software engineering, I bring a structured, logical mindset to analytics. I think about data models, scalability, and clarity just as much as I think about charts and KPIs. That technical foundation helps me bridge the gap between raw data and real business impact.
+
+I’ve earned multiple Data Analysis certifications from DataCamp, and I’m constantly learning — not just new tools, but better ways to communicate insights. I’m detail-oriented without losing sight of the big picture, and I enjoy collaborating with stakeholders to turn complex analyses into clear, actionable narratives.
+
+At the end of the day, I don’t believe in reporting for the sake of reporting. I believe in insights with purpose — insights that reduce uncertainty, spark better conversations, and lead to smarter decisions.
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [About](https://github.com/PrinceOfCode97/princeofcode97.github.io/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
@@ -19,17 +23,13 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
-  
+- [Education](https://github.com/PrinceOfCode97/princeofcode97.github.io/edit/main/README.md#education)  
+- [Certificates](https://github.com/PrinceOfCode97/princeofcode97.github.io/edit/main/README.md#certificates)
+- [Contact](https://github.com/PrinceOfCode97/princeofcode97.github.io/edit/main/README.md#contacts)
 
-
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -98,27 +98,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-
-
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+Princess Sumaya University For Technology, Jordan: 
+Bachelor's of Science - Software Engineering,
+Sep 2015 - Sep 2020
 
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Data Analyst Associate]([https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof](https://www.datacamp.com/certificate/DAA0015236188226)) (Sep 2025) (DataCamp)
+- [Advance Data Analytics](https://www.credential.net/57f4174b-d472-4a1f-a3db-5b33025ad7f3) (June 2025) (CorrelationOne)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@basheershehabi](https://www.linkedin.com/in/basheershehabi/)
