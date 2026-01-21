@@ -15,7 +15,7 @@ My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/PrinceOfCode97/princeofcode97.github.io/edit/main/README.md#about)
+- [About](#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
