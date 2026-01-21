@@ -106,7 +106,7 @@ Sep 2015 - Sep 2020
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Data Analyst Associate]([https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof](https://www.datacamp.com/certificate/DAA0015236188226)) (Sep 2025) (DataCamp)
+- [Data Analyst Associate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof](https://www.datacamp.com/certificate/DAA0015236188226)) (Sep 2025) (DataCamp)
 - [Advance Data Analytics](https://www.credential.net/57f4174b-d472-4a1f-a3db-5b33025ad7f3) (June 2025) (CorrelationOne)
 
 ## Contacts
